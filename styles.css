@@ -1,0 +1,150 @@
+*{
+
+}
+body{
+    margin: 0 auto;
+}
+
+header{
+
+    background: black;
+}
+
+section.top-page{
+    background: url('../se.png') no-repeat;
+    background-size:cover;
+    height: 90vh;
+    margin-top: -4%;
+    padding: 0%;
+
+}
+header.header img {
+width: 90px;
+}
+header.header{
+    display: flex;
+    align-items: center;
+
+
+    
+   
+    margin-left: 0px;
+}
+
+nav.nav {
+    
+    display:flex;
+}
+a,nav.nav li {
+    color:rgb(250, 248, 248);
+    margin-left:50px;
+    list-style:none;
+    justify-content:space-between;
+    background-color: black;
+    padding: 1% 5% 1% 5%;
+    margin: 5% 10% 3% 10%;
+    border-radius: 1rem;
+    box-shadow: 12% 22% 3% red;
+    background-color: red;
+    text-align:center;
+    
+    
+}
+
+.big-title{
+    color:blue;
+    font-size: 60px;
+}
+
+.sub-title{
+    color:aliceblue;
+    font-size:40px;
+}
+.services img{
+    justify-content: space-between;
+    display:grid;
+    width:500px;
+    
+}
+.intro{
+    display:flex;
+    float: left;
+    justify-content: left;
+    background-color: aquamarine;
+
+}
+.milieu{
+    display: flex;
+    background-color: grey;
+    justify-content: left;
+    float: left;
+
+}
+.last{
+    display: flex;
+    background-color: brown;
+    justify-content: left;
+    float: left;
+}
+.button{
+    display:flexbox;
+    background-color: darkblue;
+    justify-content:center;
+    text-align: center;
+    
+
+}
+.endd{
+    background:url('../irr.jpg');
+    background-image: cover;
+    background-size: cover;
+   
+    height: 90vh;
+}
+.welcome{
+    color:red;
+    font-size: 40px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.bin{
+    color: cyan;
+    font-size: 50px;
+}
+.lit{
+    background-color:red;
+
+    
+    
+    
+
+
+}
+
+
+.tete{
+
+    background-color: black;
+    padding: 5% 0% 5% 0%;
+    border-radius: 1rem;
+}
+.spek{
+    background:url('../wf.jpg');
+background-size:cover;
+height: 110vh;
+margin-top: -3%;
+padding: 0%;
+
+}
+.hit{
+    color:crimson;
+    align-items: center;
+    
+
+}
+.let{
+    color:whitesmoke;
+    display: block;
+    font-size: 50px;
+    
+}
